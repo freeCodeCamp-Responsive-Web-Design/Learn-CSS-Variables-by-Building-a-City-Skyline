@@ -2,6 +2,8 @@
 
 This project is part of the **FreeCodeCamp** curriculum, where you'll learn how to use **CSS Variables** by creating a **City Skyline**.
 
+[Learn CSS Variables by Building a City Skyline](https://freecodecamp-responsive-web-design.github.io/learn-css-variables-by-building-a-city-skyline/)
+
 ## In this project, you will:
 - Explore how to define and use **CSS variables** to store values like colors, sizes, and fonts, making your code more maintainable and reusable.
 - Implement **CSS variables** to control the look and feel of different elements in a **city skyline** design.
